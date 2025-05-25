@@ -1,8 +1,8 @@
 class RustMinesweeper < Formula
-  desc "A command-line minesweeper game with mouse support, written in Rust"
+  desc "Command-line minesweeper game with mouse support, written in Rust"
   homepage "https://github.com/mohsenasm/rust-minesweeper"
-  url "https://github.com/mohsenasm/rust-minesweeper/releases/download/v1.0.0/minesweeper-macos.tar.gz"
-  sha256 "7585f60afe18117006cb4e74990ac9931e0d9b17c7169879ec6ab2eeb296e3bd"
+  url "https://github.com/mohsenasm/rust-minesweeper/releases/download/v1.0.1/minesweeper-macos.tar.gz"
+  sha256 "e65251c0cc9f3f935ace8bed8a8805e6300e68a0f2e73b92b81a726e1e89b584"
   license "GPL-3.0"
 
   def install
