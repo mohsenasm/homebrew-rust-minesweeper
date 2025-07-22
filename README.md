@@ -15,7 +15,7 @@ brew "<formula>"
 
 ## How do I publish an update?
 
-1. Create `shasum` for the new URL.
+1. Create `shasum` for the new URL with this command or simply copying the sha256 from Github.
 ```
 curl -L https://github.com/mohsenasm/rust-minesweeper/releases/download/v1.1.0/minesweeper-macos.tar.gz | shasum -a 256
 ```
